@@ -33,6 +33,7 @@ Lumiere is an experimental project focused on AI-powered locally run real-time v
 - [OBS Studio](https://obsproject.com/) (installed and configured)
 - Windows 10/11
 - Webcam
+- Microsoft C++ Build Tools (required for pywinpty)
  ### Installation 
  1. **Clone the repository**:
 ```bash
