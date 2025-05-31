@@ -1,0 +1,17 @@
+{
+    "blush_enabled": true,
+    "blush_color": "#BB704C",
+    "blush_opacity": 0.2,
+    "lipstick_enabled": false,
+    "lipstick_color": "#00ffff",
+    "lipstick_opacity": 0.46528925619834716,
+    "eyeshadow_enabled": true,
+    "eyeshadow_color": "#7A4B3A",
+    "eyeshadow_opacity": 0.14,
+    "iris_enabled": true,
+    "iris_color": "#060D23",
+    "blur_intensity": 21,
+    "smoothing_enabled": true,
+    "smoothing_intensity": 22,
+    "brightness_increase": 7
+}

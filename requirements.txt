@@ -1,0 +1,12 @@
+streamlit>=1.40.1
+opencv-python-headless==4.7.0.72
+mediapipe==0.10.11
+cohere==5.13.2
+pandas>=2.0.0
+numpy>=1.23.0
+pillow>=9.0.0
+matplotlib>=3.7.0
+notebook>=6.0.0
+jupyter>=1.0.0
+pydeck>=0.8.0
+jinja2>=2.10.1
